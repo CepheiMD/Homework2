@@ -13,3 +13,8 @@ private int code;
         this.code = code;
     }
 }
+
+
+//add getter setter and to string. oprional: Equals and hashcode
+
+in metoda prin putem apela toString in loc de println
